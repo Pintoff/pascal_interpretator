@@ -1,0 +1,5 @@
+program abc;
+		var a1, a2 : word;
+		begin
+		write(c);
+		end.

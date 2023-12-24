@@ -1,0 +1,3 @@
+C:\Users\mrfle\source\repos\test_cli_pascal1\test_cli_pascal1\x64\Debug\test_cli_pascal1.vcxproj.AssemblyReference.cache
+C:\Users\mrfle\source\repos\test_cli_pascal1\test_cli_pascal1\x64\Debug\test_cli_pascal1.Form1.resources
+C:\Users\mrfle\source\repos\test_cli_pascal1\test_cli_pascal1\x64\Debug\test_cli_pascal1.vcxproj.GenerateResource.cache
